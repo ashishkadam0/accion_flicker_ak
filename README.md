@@ -1,0 +1,2 @@
+# accion_flicker_ak
+Use flickr public API to create a simple photo app. The requirements are as below: - Use Android programming language - Implement a search functionality using the Flickr public API (https://www.flickr.com/services/api/flickr.photos.search.html) - Display collection of photos from the search results - Implement infinite scrolling on the search results (use paging for the search results based on collection scroll position)
